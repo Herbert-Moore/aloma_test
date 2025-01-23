@@ -16,7 +16,7 @@ runStep:2
 });
 
 export default async (data: any) => {
-console.log('running new version of step 2')
+console.log('running new version of step 2 in git')
 
 task.complete()
 }

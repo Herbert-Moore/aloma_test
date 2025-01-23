@@ -16,7 +16,7 @@ runStep:1
 });
 
 export default async (data: any) => {
-console.log('running step 1')
+console.log('running step 1 now')
 
 data.runStep = 2
 }
